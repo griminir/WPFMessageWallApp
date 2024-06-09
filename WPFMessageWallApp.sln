@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFMessageWall", "WPFMessageWall\WPFMessageWall.csproj", "{B3944BC2-4BA1-4789-9934-B9E2F7F7B0F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3944BC2-4BA1-4789-9934-B9E2F7F7B0F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3944BC2-4BA1-4789-9934-B9E2F7F7B0F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3944BC2-4BA1-4789-9934-B9E2F7F7B0F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3944BC2-4BA1-4789-9934-B9E2F7F7B0F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2E26D5E-C95F-43D2-93AA-EC1C48158E85}
+	EndGlobalSection
+EndGlobal
